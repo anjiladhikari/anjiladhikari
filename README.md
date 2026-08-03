@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I'm Doing Master Of AI in Deakin University
+
 
 
 ## 🌐 Socials:
