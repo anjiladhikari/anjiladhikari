@@ -54,6 +54,6 @@ Here are some ideas to get you started:
 ### 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anjiladhikari&label=Profile%20Views&style=for-the-badge)
-.
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
